@@ -1,0 +1,35 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 70%;
+    height: 100px;
+    margin: 0 auto;
+    padding: 0 80px;
+    color: #0B043D;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.ul {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.li {
+    list-style: none;
+    padding: 5px 10px;
+}
+
+.active {
+    color: #FE0E20;
+}
