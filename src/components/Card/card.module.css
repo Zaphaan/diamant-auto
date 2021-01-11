@@ -1,0 +1,32 @@
+.card {
+    width: 280px;
+    height: 320px;
+    background-color:#E6E6E6;
+    margin: 10px;
+    padding:0;
+    text-align: left;
+    border-radius: 5px 5px 0 0;
+}
+
+.img {
+    width: 280px;
+    border-radius: 5px 5px 0 0;
+}
+
+.title {
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+.modele {
+    padding-left: 10px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #4e4e4e;
+}
+
+.price {
+    padding-left: 10px;
+    color: #9B0E1A;
+    font-weight: bold;
+}

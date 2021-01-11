@@ -1,0 +1,13 @@
+.results {
+    background-color: #ffffff;
+}
+
+.resultsContainer {
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}

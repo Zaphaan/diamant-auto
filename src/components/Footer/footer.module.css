@@ -1,0 +1,54 @@
+.footer {
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.footerContainer {
+    width: 90%;
+    height: 300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footerLeft {
+    padding-top: 20px;
+    width: 30%;
+    height: 300px;
+    padding: 30px;
+}
+
+.title {
+    font-size: 20px;
+    font-family: 'Goldman', cursive;
+    text-transform: uppercase;
+    color: #FFF;
+    border-bottom: 2px solid #FFF;
+    padding-bottom: 5px;
+}
+
+.footerMiddle {
+    padding-top: 20px;
+    width: 30%;
+    height: 300px;
+    padding: 30px;
+}
+
+.footerRight {
+    padding-top: 20px;
+    width: 30%;
+    height: 300px;
+    padding: 30px;
+}
+
+.content {
+    color: #FFF;
+    text-align: justify;
+    padding-top: 10px;
+}
+
+.reseaux {
+    margin: 10px;
+}
